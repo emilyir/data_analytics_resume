@@ -54,7 +54,7 @@ Main
 Emily Look {#title}
 --------------------------------------------------------------------------------
 
-### Data Analytics student seeking Spring 2020 internship
+### Data Analyst seeking opportunities
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -69,13 +69,22 @@ Medford, MA
 2021--Current
 
 
+### Australian National University
+
+PhD in Political Science
+
+Canberra, Australia
+
+2016--2020
+
+
 ### University of Melbourne
 
 B.A. in Political Science
 
 Melbourne, Australia
 
-2011 - 2014
+2011--2014
 
 
 
@@ -88,7 +97,7 @@ Tufts University
 
 Medford, MA
 
-2021 - 
+2021-- 
 
 - Providing data to university constituents via surveys and Tableau dashboards
 
@@ -118,4 +127,6 @@ Medford, MA
 
 December 2021
 
+### Political Science Conferences
 
+International conferences including Midwest Political Science Association; Australian Political Science Association; Elections, Public Opinion and Parties (UK); International Political Science Assocation; Taiwanese Political Science Association
