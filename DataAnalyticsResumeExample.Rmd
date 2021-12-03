@@ -1,0 +1,121 @@
+---
+title: "Emily Look"
+author: Emily Look
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>Emily.Look@tufts.edu
+- <i class="fa fa-github"></i> [github.com/emilyir/](https://github.com/emilyir/)
+- <i class="fa fa-phone"></i> +1 123-456-7891
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in running multivariate regression. 
+
+- Experienced in Tableau, Qualtrics, STATA, SPSS
+
+- Performing **data analysis**, with a focus on institutional research
+
+- Experienced in **data communication** and client relations
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Emily Look {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Spring 2020 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+Graduate Certificate Candidate in Data Analysis
+
+Medford, MA
+
+2021--Current
+
+
+### University of Melbourne
+
+B.A. in Political Science
+
+Melbourne, Australia
+
+2011 - 2014
+
+
+
+Research Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Data Analyst
+
+Tufts University
+
+Medford, MA
+
+2021 - 
+
+- Providing data to university constituents via surveys and Tableau dashboards
+
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### PhD dissertation 
+
+Australian National University
+
+2016--2020
+
+<!--::: concise-->
+- Used survey data from 1995 - 2017 to explore political attitudes in post-Soviet countries
+<!--:::-->
+
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### DATA-200 Final Project
+Presented a model to test the effect of how the performance of Australian democracy affects support for a democratic system among citizens. 
+
+Medford, MA
+
+December 2021
+
+
